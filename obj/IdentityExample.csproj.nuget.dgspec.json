@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dev\\repos\\dotnet practice\\Authentication\\IdentityExample\\IdentityExample.csproj": {}
+    "D:\\dev\\repos\\dotnet practice\\Authentication\\IdentityExampleEmailConfirmation\\IdentityExample.csproj": {}
   },
   "projects": {
-    "D:\\dev\\repos\\dotnet practice\\Authentication\\IdentityExample\\IdentityExample.csproj": {
+    "D:\\dev\\repos\\dotnet practice\\Authentication\\IdentityExampleEmailConfirmation\\IdentityExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\repos\\dotnet practice\\Authentication\\IdentityExample\\IdentityExample.csproj",
+        "projectUniqueName": "D:\\dev\\repos\\dotnet practice\\Authentication\\IdentityExampleEmailConfirmation\\IdentityExample.csproj",
         "projectName": "IdentityExample",
-        "projectPath": "D:\\dev\\repos\\dotnet practice\\Authentication\\IdentityExample\\IdentityExample.csproj",
+        "projectPath": "D:\\dev\\repos\\dotnet practice\\Authentication\\IdentityExampleEmailConfirmation\\IdentityExample.csproj",
         "packagesPath": "C:\\Users\\Neal\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\repos\\dotnet practice\\Authentication\\IdentityExample\\obj\\",
+        "outputPath": "D:\\dev\\repos\\dotnet practice\\Authentication\\IdentityExampleEmailConfirmation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Neal\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -47,6 +47,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.6, )"
+            },
+            "NETCore.MailKit": {
+              "target": "Package",
+              "version": "[2.0.3, )"
             }
           },
           "imports": [

@@ -1,4 +1,4 @@
-Simple Identity Example using in-memory database
+Simple Identity Example with email verification and password reset using in-memory database
 
 * Configure Application Cookie
 * Add Identity<User, Role>

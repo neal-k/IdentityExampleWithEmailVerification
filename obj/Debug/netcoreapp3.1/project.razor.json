@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\dev\\repos\\dotnet practice\\Authentication\\IdentityExample\\IdentityExample.csproj",
+  "FilePath": "d:\\dev\\repos\\dotnet practice\\Authentication\\IdentityExampleEmailConfirmation\\IdentityExample.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20521,23 +20521,43 @@
   "RootNamespace": "IdentityExample",
   "Documents": [
     {
-      "FilePath": "d:\\dev\\repos\\dotnet practice\\Authentication\\IdentityExample\\Views\\Home\\Register.cshtml",
+      "FilePath": "d:\\dev\\repos\\dotnet practice\\Authentication\\IdentityExampleEmailConfirmation\\Views\\Home\\Register.cshtml",
       "TargetPath": "Views\\Home\\Register.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\dev\\repos\\dotnet practice\\Authentication\\IdentityExample\\Views\\Home\\Login.cshtml",
+      "FilePath": "d:\\dev\\repos\\dotnet practice\\Authentication\\IdentityExampleEmailConfirmation\\Views\\Home\\ForgotPassword.cshtml",
+      "TargetPath": "Views\\Home\\ForgotPassword.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\dev\\repos\\dotnet practice\\Authentication\\IdentityExampleEmailConfirmation\\Views\\Home\\VerifyEmail.cshtml",
+      "TargetPath": "Views\\Home\\VerifyEmail.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\dev\\repos\\dotnet practice\\Authentication\\IdentityExampleEmailConfirmation\\Views\\Home\\EmailVerification.cshtml",
+      "TargetPath": "Views\\Home\\EmailVerification.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\dev\\repos\\dotnet practice\\Authentication\\IdentityExampleEmailConfirmation\\Views\\Home\\Login.cshtml",
       "TargetPath": "Views\\Home\\Login.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\dev\\repos\\dotnet practice\\Authentication\\IdentityExample\\Views\\Home\\Secret.cshtml",
-      "TargetPath": "Views\\Home\\Secret.cshtml",
+      "FilePath": "d:\\dev\\repos\\dotnet practice\\Authentication\\IdentityExampleEmailConfirmation\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\dev\\repos\\dotnet practice\\Authentication\\IdentityExample\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FilePath": "d:\\dev\\repos\\dotnet practice\\Authentication\\IdentityExampleEmailConfirmation\\Views\\Home\\PasswordReset.cshtml",
+      "TargetPath": "Views\\Home\\PasswordReset.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\dev\\repos\\dotnet practice\\Authentication\\IdentityExampleEmailConfirmation\\Views\\Home\\Secret.cshtml",
+      "TargetPath": "Views\\Home\\Secret.cshtml",
       "FileKind": "mvc"
     }
   ],
